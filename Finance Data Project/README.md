@@ -38,4 +38,4 @@ jupyter notebook Finance_Data_Project.ipynb
 This will open the Jupyter Notebook software and project file in your browser.
 
 ### Data
-We read the data from 'Yahoo' finance using pandas!  You'll need to install [pandas-datareader](https://github.com/pydata/pandas-datareader) for this to work! Pandas datareader allows you to read stock information directly from the internet. Use the given link for install guidance (*pip install pandas-datareader*)
+We read the data from [Yahoo Finance](https://in.finance.yahoo.com/) using pandas!  You'll need to install [pandas-datareader](https://github.com/pydata/pandas-datareader) for this to work! Pandas datareader allows you to read stock information directly from the internet. Use the given link for install guidance (*pip install pandas-datareader*)
