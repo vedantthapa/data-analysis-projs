@@ -42,4 +42,4 @@ This dataset consists of 99492 data points, with 9 features. This dataset is pro
 6. `timeStamp`: YYYY-MM-DD HH:MM:SS.
 7. `twp`: pupil-teacher ratio by town.
 8. `addr`: Address.
-9. `e`: Dummy variable (always 1)
+9. `e`: Dummy variable (always 1).
